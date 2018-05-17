@@ -2,6 +2,6 @@
 //Dane do bazy danych
 $host="mysql.cba.pl";
 $user="mateuszkulinski";
-$pass="Bluerank1234";
+$pass="Bluerank12345";
 $name="mateuszkulinski"
 ?>
